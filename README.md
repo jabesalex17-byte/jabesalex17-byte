@@ -40,23 +40,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jabesalex17-byte&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabesalex17-byte&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="165" />
-
-<br><br>
-
 <img src="https://img.shields.io/github/followers/jabesalex17-byte?style=for-the-badge&logo=github&color=2E9EF7&labelColor=0D1117&label=Seguidores" alt="Seguidores" />
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=2E9EF7&label=Repos%20p%C3%BAblicos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte" alt="Repositorios públicos" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=2E9EF7&label=Siguiendo&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte" alt="Siguiendo" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabesalex17-byte&theme=github-compact&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=c9d1d9&hide_border=true" alt="Actividad de contribuciones" width="90%" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=2E9EF7&label=Gists%20p%C3%BAblicos&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte" alt="Gists públicos" />
 
 </div>
 
-> La tarjeta de la izquierda resume estrellas, commits, PRs e issues — más representativo de tu trabajo real que una racha de días. Los dos badges de abajo (seguidores y repos) usan un servicio distinto (shields.io) que rara vez falla, así siempre hay algo cargando aunque las tarjetas grandes tarden. El gráfico de abajo muestra el volumen de commits en el tiempo, útil para mostrar consistencia.
->
-> **Si alguna tarjeta se ve rota:** no es tu README — GitHub cachea la imagen fallida durante un rato. Hacé un refresh forzado (`Ctrl/Cmd + Shift + R`) o esperá unos minutos y va a cargar sola.
+> Estos datos vienen directo de la API pública de GitHub (`api.github.com`), así que siempre están actualizados y prácticamente nunca fallan — a diferencia de los widgets con gráficas, que dependen de un servicio externo que se cae seguido y son difíciles de leer.
 
 <br>
 
