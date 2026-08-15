@@ -17,10 +17,11 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Programación**, aprendiendo las bases del desarrollo de software.
-- 💻 Actualmente reforzando mis conocimientos en **C#**.
-- 🌱 Trabajando en proyectos personales para practicar lo aprendido en clase.
+- 💻 Trabajando con **C#, .NET, Python, JavaScript, React y SQL Server**.
+- 🌱 Ampliando mis conocimientos en desarrollo backend, frontend y bases de datos.
+- 🔧 Usando **Git** como control de versiones en todos mis proyectos.
 - 📍 Ubicado en República Dominicana 🇩🇴
-- ⚡ Me interesa seguir aprendiendo sobre desarrollo backend y buenas prácticas de programación.
+- ⚡ Me interesa seguir creciendo como desarrollador full stack.
 - 🤝 Abierto a colaborar en proyectos y aprender de la comunidad.
 
 ---
@@ -28,7 +29,17 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,vscode,visualstudio" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,mssql,git,github,html,css,vscode,visualstudio" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
