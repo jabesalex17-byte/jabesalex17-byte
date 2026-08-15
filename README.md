@@ -47,7 +47,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabesalex17-byte&theme=black-ice&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=jabesalex17-byte&theme=dark&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" width="90%" />
 </p>
 
 <p align="center">
