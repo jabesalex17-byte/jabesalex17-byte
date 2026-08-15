@@ -47,8 +47,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jabesalex17-byte&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabesalex17-byte&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jabesalex17-byte&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabesalex17-byte&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" width="39%" />
 </p>
 
 <p align="center">
