@@ -36,52 +36,15 @@
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-| 👥 Seguidores | 📁 Repos públicos | 🔄 Siguiendo | 📝 Gists públicos |
-|:---:|:---:|:---:|:---:|
-| ![Seguidores](https://img.shields.io/github/followers/jabesalex17-byte?style=for-the-badge&logo=github&color=2E9EF7&labelColor=0D1117&label=%20) | ![Repos públicos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=8B5CF6&label=%20&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte) | ![Siguiendo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=10B981&label=%20&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte) | ![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=F59E0B&label=%20&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte) |
-
-</div>
-
-<br>
-
-**Actividad por repositorio**
-
-| Repositorio | Lenguaje principal | Último commit | Tamaño |
-|---|:---:|:---:|:---:|
-| [Programacion-I](https://github.com/jabesalex17-byte/Programacion-I) | ![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117&label=%20) | ![Último commit](https://img.shields.io/github/last-commit/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117&label=%20) | ![Tamaño](https://img.shields.io/github/repo-size/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117&label=%20) |
-| [Programacion-Il](https://github.com/jabesalex17-byte/Programacion-Il) | ![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117&label=%20) | ![Último commit](https://img.shields.io/github/last-commit/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117&label=%20) | ![Tamaño](https://img.shields.io/github/repo-size/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117&label=%20) |
-| [Personal](https://github.com/jabesalex17-byte/Personal) | ![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117&label=%20) | ![Último commit](https://img.shields.io/github/last-commit/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117&label=%20) | ![Tamaño](https://img.shields.io/github/repo-size/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117&label=%20) |
-
-> Todo esto sale directo de `api.github.com` y de los badges de repo de shields.io — dos fuentes que casi nunca fallan, a diferencia de los generadores de gráficas. La tabla de abajo además muestra algo que un reclutador realmente mira: cuándo fue tu último commit en cada proyecto, no solo un número suelto.
-
-<br>
-
 ## 📌 Proyectos destacados
 
 <div align="center">
 
-### [📦 Programacion-I](https://github.com/jabesalex17-byte/Programacion-I)
-![Stars](https://img.shields.io/github/stars/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117)
-![Forks](https://img.shields.io/github/forks/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117)
-![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117)
-
-### [📦 Programacion-Il](https://github.com/jabesalex17-byte/Programacion-Il)
-![Stars](https://img.shields.io/github/stars/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117)
-![Forks](https://img.shields.io/github/forks/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117)
-![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117)
-
-### [📦 Personal](https://github.com/jabesalex17-byte/Personal)
-![Stars](https://img.shields.io/github/stars/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117)
-![Forks](https://img.shields.io/github/forks/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117)
-![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117)
+**[📦 Programacion-I](https://github.com/jabesalex17-byte/Programacion-I)** · **[📦 Programacion-Il](https://github.com/jabesalex17-byte/Programacion-Il)** · **[📦 Personal](https://github.com/jabesalex17-byte/Personal)**
 
 </div>
 
-> 💡 **Tip:** además de esto, GitHub te deja fijar hasta 6 repos directo desde tu perfil (botón "Customize your pins" arriba de tus repositorios). Esos aparecen en la vista principal de tu perfil, independiente de este README — vale la pena usarlos también.
+> 💡 **Tip:** GitHub te deja fijar hasta 6 repos directo desde tu perfil (botón "Customize your pins" arriba de tus repositorios) — se ven en la vista principal de tu perfil.
 
 <br>
 
