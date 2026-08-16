@@ -40,17 +40,23 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/jabesalex17-byte?style=for-the-badge&logo=github&color=2E9EF7&labelColor=0D1117&label=Seguidores" alt="Seguidores" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=2E9EF7&label=Repos%20p%C3%BAblicos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte" alt="Repositorios públicos" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=2E9EF7&label=Siguiendo&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte" alt="Siguiendo" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=2E9EF7&label=Gists%20p%C3%BAblicos&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte" alt="Gists públicos" />
+| 👥 Seguidores | 📁 Repos públicos | 🔄 Siguiendo | 📝 Gists públicos |
+|:---:|:---:|:---:|:---:|
+| ![Seguidores](https://img.shields.io/github/followers/jabesalex17-byte?style=for-the-badge&logo=github&color=2E9EF7&labelColor=0D1117&label=%20) | ![Repos públicos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=8B5CF6&label=%20&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte) | ![Siguiendo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=10B981&label=%20&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte) | ![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D1117&color=F59E0B&label=%20&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjabesalex17-byte) |
 
 </div>
 
-> Estos datos vienen directo de la API pública de GitHub (`api.github.com`), así que siempre están actualizados y prácticamente nunca fallan — a diferencia de los widgets con gráficas, que dependen de un servicio externo que se cae seguido y son difíciles de leer.
+<br>
+
+**Actividad por repositorio**
+
+| Repositorio | Lenguaje principal | Último commit | Tamaño |
+|---|:---:|:---:|:---:|
+| [Programacion-I](https://github.com/jabesalex17-byte/Programacion-I) | ![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117&label=%20) | ![Último commit](https://img.shields.io/github/last-commit/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117&label=%20) | ![Tamaño](https://img.shields.io/github/repo-size/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117&label=%20) |
+| [Programacion-Il](https://github.com/jabesalex17-byte/Programacion-Il) | ![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117&label=%20) | ![Último commit](https://img.shields.io/github/last-commit/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117&label=%20) | ![Tamaño](https://img.shields.io/github/repo-size/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117&label=%20) |
+| [Personal](https://github.com/jabesalex17-byte/Personal) | ![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117&label=%20) | ![Último commit](https://img.shields.io/github/last-commit/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117&label=%20) | ![Tamaño](https://img.shields.io/github/repo-size/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117&label=%20) |
+
+> Todo esto sale directo de `api.github.com` y de los badges de repo de shields.io — dos fuentes que casi nunca fallan, a diferencia de los generadores de gráficas. La tabla de abajo además muestra algo que un reclutador realmente mira: cuándo fue tu último commit en cada proyecto, no solo un número suelto.
 
 <br>
 
@@ -58,14 +64,24 @@
 
 <div align="center">
 
-[![Programacion-I](https://github-readme-stats.vercel.app/api/pin/?username=jabesalex17-byte&repo=Programacion-I&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/jabesalex17-byte/Programacion-I)
-[![Programacion-Il](https://github-readme-stats.vercel.app/api/pin/?username=jabesalex17-byte&repo=Programacion-Il&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/jabesalex17-byte/Programacion-Il)
+### [📦 Programacion-I](https://github.com/jabesalex17-byte/Programacion-I)
+![Stars](https://img.shields.io/github/stars/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117)
+![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-I?style=flat-square&color=2E9EF7&labelColor=0D1117)
 
-[![Personal](https://github-readme-stats.vercel.app/api/pin/?username=jabesalex17-byte&repo=Personal&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/jabesalex17-byte/Personal)
+### [📦 Programacion-Il](https://github.com/jabesalex17-byte/Programacion-Il)
+![Stars](https://img.shields.io/github/stars/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117)
+![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Programacion-Il?style=flat-square&color=8B5CF6&labelColor=0D1117)
+
+### [📦 Personal](https://github.com/jabesalex17-byte/Personal)
+![Stars](https://img.shields.io/github/stars/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117)
+![Lenguaje](https://img.shields.io/github/languages/top/jabesalex17-byte/Personal?style=flat-square&color=10B981&labelColor=0D1117)
 
 </div>
 
-> Si estas tarjetas no cargan, GitHub también te deja fijar repos directamente desde tu perfil (Customize your pins) — es más confiable que este servicio externo. Ver la nota al final del archivo.
+> 💡 **Tip:** además de esto, GitHub te deja fijar hasta 6 repos directo desde tu perfil (botón "Customize your pins" arriba de tus repositorios). Esos aparecen en la vista principal de tu perfil, independiente de este README — vale la pena usarlos también.
 
 <br>
 
